@@ -3,7 +3,6 @@
 
  This is the companion program to the article：
 
- ==========================================================
  "Fast and robust star detection algorithm based on the dyadic wavelet transform"
 
  By Zhanglei Chen
@@ -13,7 +12,6 @@
  Zhengzhou, China
 
  16 June 2022
- ==========================================================
 
 
  Enclosed are:
